@@ -1,4 +1,4 @@
 # Leetcode
 
-This article records my solutions to problems on [Leetcode](https://leetcode-cn.com/problemset/all/).
+该文件记录了我的[Leetcode](https://leetcode-cn.com/problemset/all/)答案.
 
